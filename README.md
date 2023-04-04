@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thazlett16 aka Tim Hazlett
 - 👀 I’m interested in all things related to sports
-- 🌱 I’m currently learning new frameworks and libraries around the React framework
+- 🌱 I’m currently learning new frameworks and libraries around the React library
 - 📫 Reach me with an email to timhazlett2016@gmail.com
 
 <!---

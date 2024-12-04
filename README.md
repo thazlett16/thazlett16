@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @thazlett16 aka Tim Hazlett
-- 👀 I’m interested in all things related to sports
-- 🌱 I’m currently learning new frameworks and libraries in the React ecosystem & Rust for tooling.
-- 📫 Reach me with an email to timhazlett2016@gmail.com
+### Hi, I’m thazlett16 aka Tim Hazlett
+- Love chatting/playing sports.
+- I’m constantly learning new frameworks and libraries in the React ecosystem & Rust for tooling.
+- Member of my church in the [CityLight Family](https://citylightfamily.org/) and serving on our production team! 
 
-<!---
-thazlett16/thazlett16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Reach me with an email to [timhazlett2016@gmail.com](mailto:timhazlett2016@gmail.com) or add me on Discord: thazalatte for questions.
